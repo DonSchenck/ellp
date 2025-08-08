@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  gap: 10px; /* Optional spacing between divs */
+}
+
+.box {
+  flex: 1; /* Makes the divs equal width */
+  padding: 20px;
+  background-color: lightblue;
+  text-align: center;
+}
